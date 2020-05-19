@@ -29,6 +29,18 @@ My plan for the next two weeks is to started developing this app and implementin
 
 ![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.11.16.png?raw=true "Optional Title")
 
+![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.12.04.png?raw=true "Optional Title")
+
+![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.13.03.png?raw=true "Optional Title")
+
+![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.13.18.png?raw=true "Optional Title")
+
+![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.14.07.png?raw=true "Optional Title")
+
+![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.14.32.png?raw=true "Optional Title")
+
+![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.14.55.png?raw=true "Optional Title")
+
 
 
 
