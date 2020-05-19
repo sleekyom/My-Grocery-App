@@ -18,6 +18,19 @@ My plan for the next two weeks is to started developing this app and implementin
 
 # App Features
 
-Add items
-Update items
-Delete items
+* Google auth sign-in
+* Add items
+* Update items
+* Delete items
+
+# All app feature sync in real-time with Firestore DB.
+
+# Below is what this app looks like
+
+
+
+
+
+
+
+
