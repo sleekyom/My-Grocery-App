@@ -27,6 +27,7 @@ My plan for the next two weeks is to started developing this app and implementin
 
 # Below is what this app looks like
 
+![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.11.16.png?raw=true "Optional Title")
 
 
 
